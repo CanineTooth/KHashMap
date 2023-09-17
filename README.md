@@ -1,0 +1,2 @@
+# KHashMap
+Windows kernel HashMap
